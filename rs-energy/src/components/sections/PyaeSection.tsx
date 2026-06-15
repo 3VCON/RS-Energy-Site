@@ -59,7 +59,7 @@ export default function PyaeSection() {
               Mobilidade Elétrica
             </span>
             <h2 className="text-2xl sm:text-3xl md:text-4xl font-extrabold text-white
-              leading-tight">
+              leading-tight"> 
               PYA'E Energia<br/>Chegou na Região
             </h2>
             <p className="text-white/65 text-base leading-relaxed">
